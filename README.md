@@ -65,6 +65,10 @@ git version
 #### Update
 
 [update git](https://git-scm.com/download/mac)
+
+```
+brew install git
+```
   
 [Download git](https://git-scm.com/download/mac)
 </details>
