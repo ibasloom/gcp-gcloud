@@ -59,6 +59,8 @@ gsutil 5.21
 git version
 ```
 
+  
+[Download git](https://git-scm.com/download/mac)
 </details>
 
 --------
