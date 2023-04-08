@@ -49,6 +49,16 @@ gcloud-crc32c 1.0.0
 gsutil 5.21
 ```
  
+[Download gcloud](https://cloud.google.com/sdk/docs/install#mac) 
+
+
+
+#### git version
+
+```
+git version
+```
+
 </details>
 
 --------
