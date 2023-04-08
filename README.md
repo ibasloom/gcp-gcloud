@@ -28,7 +28,10 @@ python version
 ```
 python3 -V
 ```
-
+  
+```
+python --version
+```
 
 ```
 python -V
